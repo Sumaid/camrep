@@ -33,7 +33,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
-            android:background="#FFFFFF"
+            android:background="#3F51B5"
             android:orientation="vertical"
             android:padding="8dp">
 
